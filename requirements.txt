@@ -1,0 +1,9 @@
+scikit-image
+scikit-learn
+scikit-metrics
+scipy
+numpy
+tqdm
+opencv-python
+Pillow
+kornia
